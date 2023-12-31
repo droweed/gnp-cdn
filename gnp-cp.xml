@@ -11,14 +11,4 @@
         <!--The Link to the game on this platform-->
         <Link>https://www.google.com/</Link>
     </game>
-    <game id="com.gotoandplay.AnotherGame">
-        <!--promoText is the text that is displayed above the icon-->
-        <promoText>Another Game!</promoText>
-
-        <!--thumbURL is the direct link to the thumbnail for the game. If possible, use the 200x200 thumbnail.  If not, it will resize-->
-        <thumbURL>ENTER_URL_TO_IMAGE_HERE_200x200_WORKS_BEST</thumbURL>
-
-        <!--The Link to the game on this platform-->
-        <Link>https://www.google.com/</Link>
-    </game>
 </games>
