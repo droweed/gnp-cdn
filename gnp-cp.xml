@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <games>
     
-    <game id="com.gotoandplay.DrawAPath">
+    <!-- <game id="com.gotoandplay.DrawAPath"> -->
         <!--promoText is the text that is displayed above the icon-->
-        <promoText>Draw A Path</promoText>
+        <!-- <promoText>Draw A Path</promoText> -->
         
         <!--thumbURL is the direct link to the thumbnail for the game. If possible, use the 200x200 thumbnail.  If not, it will resize-->
-        <thumbURL>ENTER_URL_TO_IMAGE_HERE_200x200_WORKS_BEST</thumbURL>
+        <!-- <thumbURL>ENTER_URL_TO_IMAGE_HERE_200x200_WORKS_BEST</thumbURL> -->
         
         <!--The Link to the game on this platform-->
-        <Link>https://www.google.com/</Link>
+        <!-- <Link>https://www.google.com/</Link> -->
     </game>
 </games>
